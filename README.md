@@ -11,7 +11,7 @@ I'm a self-taught passionate Software developer from Karnataka, India 🇮🇳
 - 💻 I love to code, solve problems, and create innovative solutions.
 - 🌟 Experienced in JAVA, HTML/CSS, JS, SQL, I'm always eager to learn and explore new horizons.
 - 🚀 Open source enthusiast, you'll find me contributing to projects that make the world a better place. Let's connect and collaborate on exciting projects!
-- 🤝 #CodeForGood #TechEnthusiast"
+- 🤝 #CodeForGood #TechEnthusiast
 
 - 💬 Ask me about anything [here](https://github.com/tabarakmukhtar/tabarakmukhtar/issues)
   
