@@ -13,7 +13,6 @@
 - 💻 I enjoy working with:
   - Backend: **Java**, **SQL**, **Python**
   - Frontend: **HTML**, **CSS**, **JavaScript**
-- 🌱 Currently learning: **Spring Boot**, **REST APIs**, and **React.js**
 - 🤝 Open to collaboration on open-source or impactful projects
 - 💬 Ask me anything [here](https://github.com/tabarakmukhtar/tabarakmukhtar/issues)
 
