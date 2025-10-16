@@ -20,9 +20,9 @@
 
 ### 🚀 Featured Projects
 
-- 📄 [Smart AI Resume Analyzer](https://github.com/your-repo](https://github.com/tabarakmukhtar/Smart-AI-Resume-Analyzer ) – AI-powered resume analysis using NLP, Python & React
+- 📄 [Smart AI Resume Analyzer](https://github.com/tabarakmukhtar/Smart-AI-Resume-Analyzer ) – AI-powered resume analysis using NLP, Python & React
 - 🧾 [Certificate Validation using Blockchain](https://github.com/tabarakmukhtar/certificatevalidationusingblockchainn.git) – Final year project on document verification using blockchain
-- 🔐 [User Access Management System]( https://github.com/your-repo](http://github.com/tabarakmukhtar/UserAccessManagement ) – Role-based access control with login/logout functionality
+- 🔐 [User Access Management System](http://github.com/tabarakmukhtar/UserAccessManagement ) – Role-based access control with login/logout functionality
 
 
 ---
