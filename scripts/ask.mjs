@@ -3,7 +3,9 @@
 // and the answer comes from a model that stranger is actively trying to steer.
 import { readFileSync, writeFileSync, appendFileSync } from 'node:fs'
 
-const MODEL = 'gemini-2.0-flash' // change here if the model is retired
+// Google retires model aliases; override with the GEMINI_MODEL repo variable
+// (Settings > Secrets and variables > Actions > Variables) without touching code.
+const MODEL = process.env.GEMINI_MODEL || 'gemini-3.6-flash'
 const PREFIX = 'ask|'
 const MAX_Q = 200 // chars accepted from the issue title
 const MAX_A = 280 // chars kept from the model

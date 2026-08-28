@@ -50,6 +50,7 @@ jobs:
         env:
           ISSUE_TITLE: ${{ github.event.issue.title }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
         run: node scripts/ask.mjs
 
       - name: Publish
