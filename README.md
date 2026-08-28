@@ -1,6 +1,7 @@
-# Tabarak Mukhtar
-
-**Full-Stack & AI Engineer** &nbsp;·&nbsp; Bengaluru, India 🇮🇳
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tabarakmukhtar/tabarakmukhtar/main/assets/banner-dark.svg" />
+  <img src="https://raw.githubusercontent.com/tabarakmukhtar/tabarakmukhtar/main/assets/banner-light.svg" alt="Tabarak Mukhtar &#8212; Full-Stack &amp; AI Engineer, Bengaluru, India" width="100%" />
+</picture>
 
 I build AI-powered products — full-stack systems where the intelligence is the feature, not a demo.
 Most of my work sits at the seam between a real product surface and a model doing something useful behind it.

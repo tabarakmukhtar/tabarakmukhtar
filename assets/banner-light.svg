@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Tabarak Mukhtar, Full-Stack and AI Engineer, Bengaluru India">
+  <g font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif">
+    <rect x="48" y="58" width="4" height="184" fill="#4F46E5"/>
+    <text x="88" y="132" font-size="70" font-weight="700" letter-spacing="-2.5" fill="#0F172A">Tabarak Mukhtar</text>
+    <text x="90" y="180" font-size="19" font-weight="600" letter-spacing="5.5" fill="#4F46E5"
+          font-family="ui-monospace,'SF Mono','Cascadia Mono',Menlo,Consolas,monospace">FULL-STACK &amp; AI ENGINEER</text>
+    <text x="90" y="216" font-size="16" letter-spacing="2.5" fill="#64748B"
+          font-family="ui-monospace,'SF Mono','Cascadia Mono',Menlo,Consolas,monospace">BENGALURU, INDIA</text>
+  </g>
+  <g transform="translate(302,202)">
+    <rect width="27" height="18" fill="#FF9933"/>
+    <rect y="6" width="27" height="6" fill="#FFFFFF"/>
+    <rect y="12" width="27" height="6" fill="#138808"/>
+    <circle cx="13.5" cy="9" r="2.6" fill="none" stroke="#000080" stroke-width="1"/>
+    <rect width="27" height="18" fill="none" stroke="#94A3B8" stroke-width="0.75" opacity="0.5"/>
+  </g>
+  <g stroke="#4F46E5" stroke-width="1.5" opacity="0.30">
+    <line x1="958" y1="150" x2="1063" y2="121"/>
+    <line x1="958" y1="150" x2="1036" y2="212"/>
+    <line x1="958" y1="150" x2="931" y2="233"/>
+    <line x1="958" y1="150" x2="848" y2="168"/>
+    <line x1="958" y1="150" x2="895" y2="79"/>
+    <line x1="958" y1="150" x2="1011" y2="74"/>
+    <line x1="895" y1="79" x2="1011" y2="74"/>
+    <line x1="1063" y1="121" x2="1036" y2="212"/>
+    <line x1="931" y1="233" x2="848" y2="168"/>
+  </g>
+  <circle cx="958" cy="150" r="10" fill="#4F46E5"/>
+  <circle cx="958" cy="150" r="19" fill="none" stroke="#4F46E5" stroke-width="1.5" opacity="0.45">
+    <animate attributeName="r" values="15;26;15" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;0;0.5" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1063" cy="121" r="6.5" fill="#4F46E5" stroke="#4F46E5" stroke-width="2">
+    <animate attributeName="opacity" values="1;0.45;1" dur="5s" begin="0.00s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1036" cy="212" r="6.5" fill="#FFFFFF" stroke="#4F46E5" stroke-width="2">
+    <animate attributeName="opacity" values="1;0.45;1" dur="5s" begin="0.70s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="931" cy="233" r="6.5" fill="#4F46E5" stroke="#4F46E5" stroke-width="2">
+    <animate attributeName="opacity" values="1;0.45;1" dur="5s" begin="1.40s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="848" cy="168" r="6.5" fill="#FFFFFF" stroke="#4F46E5" stroke-width="2">
+    <animate attributeName="opacity" values="1;0.45;1" dur="5s" begin="2.10s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="895" cy="79" r="6.5" fill="#4F46E5" stroke="#4F46E5" stroke-width="2">
+    <animate attributeName="opacity" values="1;0.45;1" dur="5s" begin="2.80s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1011" cy="74" r="6.5" fill="#FFFFFF" stroke="#4F46E5" stroke-width="2">
+    <animate attributeName="opacity" values="1;0.45;1" dur="5s" begin="3.50s" repeatCount="indefinite"/>
+  </circle>
+  <line x1="48" y1="268" x2="1152" y2="268" stroke="#D8DEE6" stroke-width="1"/>
+</svg>
