@@ -46,12 +46,17 @@ async function askGemini(ctx, q, key) {
       headers: { 'content-type': 'application/json' },
       body: JSON.stringify({
         contents: [{ parts: [{ text: PROMPT(ctx, q) }] }],
-        generationConfig: { maxOutputTokens: 120, temperature: 0.2 },
+        // 3.x flash is a reasoning model: thinking tokens draw down this same
+        // budget, so 120 left almost nothing for the visible answer.
+        // clean() caps the text at MAX_A chars regardless, so this is only a ceiling.
+        generationConfig: { maxOutputTokens: 800, temperature: 0.2 },
       }),
     }
   )
   if (!res.ok) throw new Error(`gemini ${res.status}: ${(await res.text()).slice(0, 200)}`)
   const json = await res.json()
+  const why = json?.candidates?.[0]?.finishReason
+  if (why && why !== 'STOP') console.log('finishReason:', why)
   return json?.candidates?.[0]?.content?.parts?.[0]?.text ?? ''
 }
 
