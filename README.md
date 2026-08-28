@@ -1,80 +1,60 @@
-<h2 align="center">Hi there 👋, I'm Tabarak Mukhtar!</h2>
-<p align="center">
-  <em>A self-taught, passionate Software Developer from Karnataka, India 🇮🇳</em>
-</p>
+# Tabarak Mukhtar
+
+**Full-Stack & AI Engineer** &nbsp;·&nbsp; Bengaluru, India
+
+I build AI-powered products — full-stack systems where the intelligence is the feature, not a demo.
+Most of my work sits at the seam between a real product surface and a model doing something useful behind it.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tabarakmukhtar-portfolio.netlify.app/)
+<!-- LinkedIn icon is embedded inline: Simple Icons dropped the `linkedin` slug (trademark), so shields.io renders a text-only chip without this. Swap back to `logo=linkedin` if it ever returns. -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==)](https://linkedin.com/in/tabarakmukhtar)
+[![Email](https://img.shields.io/badge/Email-4F46E5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tabarakmukhtar@gmail.com)
+[![X](https://img.shields.io/badge/X-4F46E5?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tabarak_mukhtar)
 
 ---
 
-### 🧑‍💻 About Me
+## Selected work
 
-- 🎓 Computer Science Graduate | Batch of 2023
-- 💡 Passionate about technology, coding, and solving real-world problems
-- 🧠 Always curious and eager to explore new tools, frameworks & ideas
-- 💻 I enjoy working with:
-  - Backend: **Java**, **SQL**, **Python**
-  - Frontend: **HTML**, **CSS**, **JavaScript**
-- 🤝 Open to collaboration on open-source or impactful projects
-- 💬 Ask me anything [here](https://github.com/tabarakmukhtar/tabarakmukhtar/issues)
-
----
-
-### 🚀 Featured Projects
-
-- 📄 [Smart AI Resume Analyzer](https://github.com/tabarakmukhtar/Smart-AI-Resume-Analyzer ) – AI-powered resume analysis using NLP, Python & React
-- 🧾 [Certificate Validation using Blockchain](https://github.com/tabarakmukhtar/certificatevalidationusingblockchainn.git) – Final year project on document verification using blockchain
-- 🔐 [User Access Management System](http://github.com/tabarakmukhtar/UserAccessManagement ) – Role-based access control with login/logout functionality
-
+| Project | What it does | Stack |
+| :--- | :--- | :--- |
+| **[Smart AI Resume Analyzer](https://github.com/tabarakmukhtar/Smart-AI-Resume-Analyzer)** | ATS-style resume scoring with AI-driven optimization and professional template generation | Python · NLP |
+| **[Recipe Snap](https://github.com/tabarakmukhtar/Recipe-Snap)** | Turns a photo of your ingredients into a cookable recipe using AI vision | Next.js · TypeScript · Genkit |
+| **[BizView](https://github.com/tabarakmukhtar/BizView)** | AI-powered business management dashboard with analytics and operational insight | TypeScript · React |
+| **[LeadMasters Exam](https://github.com/tabarakmukhtar/leadmasters-exam)** | Full-stack online examination platform — auth, timed tests, result pipeline | React · FastAPI · MySQL |
+| **[Certificate Validation on Blockchain](https://github.com/tabarakmukhtar/certificatevalidationusingblockchainn)** | Verifies university certificates as tamper-proof on-chain records | JavaScript · Blockchain |
 
 ---
 
-### 🛠️ Tech Stack
+## Stack
 
-<p>
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" />
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" />
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" />
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS" />
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" />
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL" />
-</p>
+**Languages**
 
----
+![Python](https://img.shields.io/badge/Python-475569?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-475569?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-475569?style=flat-square&logo=javascript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-475569?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-475569?style=flat-square&logo=postgresql&logoColor=white)
 
-### 🤗 How I Can Help
+**Frontend**
 
-- Beginners looking to learn **Java**, **Python**, or **GitHub basics**
-- Structuring your personal projects for GitHub
-- Building CRUD apps with Java + SQL backend
+![React](https://img.shields.io/badge/React-475569?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-475569?style=flat-square&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-475569?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-475569?style=flat-square&logo=css&logoColor=white)
 
----
+**Backend & Data**
 
-### 📊 GitHub Stats
+![FastAPI](https://img.shields.io/badge/FastAPI-475569?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-475569?style=flat-square&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-475569?style=flat-square&logo=mysql&logoColor=white)
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=tabarakmukhtar&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Tabarak's GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tabarakmukhtar&layout=compact&theme=buefy&hide_border=true" alt="Top Languages" /> |
-| ------------- | ------------- |
+**AI & Tooling**
 
----
-
-### 🌐 Portfolio
-
-🧭 Visit My Portfolio: [tabarak-portfolio](https://tabarakmukhtar-portfolio.netlify.aoo) <!-- Change this to your actual URL if different -->
+![Google Genkit](https://img.shields.io/badge/Genkit-475569?style=flat-square&logo=google&logoColor=white)
+![Git](https://img.shields.io/badge/Git-475569?style=flat-square&logo=git&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-475569?style=flat-square&logo=netlify&logoColor=white)
 
 ---
 
-### 🔗 Connect with Me
-
-<p>
-  <a href="https://linkedin.com/in/tabarakmukhtar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:tabarakmukhtar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
-  <a href="https://github.com/tabarakmukhtar">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-</p>
-
----
-
-> *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
+Open to collaborating on AI products and full-stack work worth building.
+Reach me at **[tabarakmukhtar@gmail.com](mailto:tabarakmukhtar@gmail.com)**.
