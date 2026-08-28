@@ -56,4 +56,4 @@ replies on the issue, and posts the answer below. Nothing to install, no account
 ---
 
 Open to collaborating on AI products and full-stack work worth building.
-Reach me at **[tabarakmukhtar@gmail.com](mailto:tabarakmukhtar@gmail.com)**.
+Reach me at **[tabarakmukhtar7@gmail.com](mailto:tabarakmukhtar7@gmail.com)**.
