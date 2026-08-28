@@ -51,9 +51,6 @@ replies on the issue, and posts the answer below. Nothing to install, no account
 <!-- ask:start -->
 > **What is your stack?**
 > Tabarak works daily with React, TypeScript, Next.js, Tailwind CSS, Python, FastAPI, and Node.js. His stack also includes AI tools like OpenAI and Gemini, along with Supabase, PostgreSQL, and Prisma.
-
-> **What do you build?**
-> Tabarak builds full
 <!-- ask:end -->
 
 ---
