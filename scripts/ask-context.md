@@ -16,8 +16,6 @@ Public projects:
   vertex shader by simplex noise, with the amplitude driven by live microphone
   loudness measured as RMS. Uses React Three Fiber, custom GLSL, bloom
   post-processing and the Web Audio API. It has a live demo.
-- Smart AI Resume Analyzer: ATS-style resume scoring, AI-driven optimization and
-  professional template generation. Python, NLP.
 - Recipe Snap: turns a photo of your ingredients into a cookable recipe using AI
   vision. Next.js, TypeScript, Genkit.
 - BizView: AI-powered business management dashboard with analytics. TypeScript, React.
