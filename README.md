@@ -1,9 +1,9 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tabarakmukhtar/tabarakmukhtar/main/assets/banner-dark.svg" />
-  <img src="https://raw.githubusercontent.com/tabarakmukhtar/tabarakmukhtar/main/assets/banner-light.svg" alt="Tabarak Mukhtar &#8212; Full-Stack &amp; AI Engineer, Bengaluru, India" width="100%" />
+  <img src="https://raw.githubusercontent.com/tabarakmukhtar/tabarakmukhtar/main/assets/banner-light.svg" alt="Tabarak Mukhtar, Full-Stack &amp; AI Engineer, Bengaluru, India" width="100%" />
 </picture>
 
-I build AI-powered products — full-stack systems where the intelligence is the feature, not a demo.
+I build AI-powered products: full-stack systems where the intelligence is the feature, not a demo.
 Most of my work sits at the seam between a real product surface and a model doing something useful behind it.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tabarakmukhtar-portfolio.netlify.app/)
@@ -21,7 +21,7 @@ Most of my work sits at the seam between a real product surface and a model doin
 | **[Smart AI Resume Analyzer](https://github.com/tabarakmukhtar/Smart-AI-Resume-Analyzer)** | ATS-style resume scoring with AI-driven optimization and professional template generation | Python · NLP |
 | **[Recipe Snap](https://github.com/tabarakmukhtar/Recipe-Snap)** | Turns a photo of your ingredients into a cookable recipe using AI vision | Next.js · TypeScript · Genkit |
 | **[BizView](https://github.com/tabarakmukhtar/BizView)** | AI-powered business management dashboard with analytics and operational insight | TypeScript · React |
-| **[LeadMasters Exam](https://github.com/tabarakmukhtar/leadmasters-exam)** | Full-stack online examination platform — auth, timed tests, result pipeline | React · FastAPI · MySQL |
+| **[LeadMasters Exam](https://github.com/tabarakmukhtar/leadmasters-exam)** | Full-stack online examination platform with auth, timed tests and a result pipeline | React · FastAPI · MySQL |
 | **[Certificate Validation on Blockchain](https://github.com/tabarakmukhtar/certificatevalidationusingblockchainn)** | Verifies university certificates as tamper-proof on-chain records | JavaScript · Blockchain |
 
 ---
