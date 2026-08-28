@@ -28,32 +28,28 @@ Most of my work sits at the seam between a real product surface and a model doin
 
 ## Stack
 
-**Languages**
+Measured from what I actually use across my projects, not aspirational.
 
-![Python](https://img.shields.io/badge/Python-475569?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-475569?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-475569?style=flat-square&logo=javascript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-475569?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-475569?style=flat-square&logo=postgresql&logoColor=white)
+| | |
+| :--- | :--- |
+| **Core** | React · TypeScript · Next.js · Tailwind CSS |
+| **AI** | OpenAI · Google Gemini · Retell voice agents · Genkit |
+| **Data** | Supabase · PostgreSQL · Prisma · Zod |
+| **Interface** | Framer Motion · Three.js · React Three Fiber · Radix UI · Recharts |
+| **Testing & infra** | Playwright · GitHub Actions · Vercel · Netlify · AWS |
+| **Also** | Python · FastAPI · Node.js · Java · MySQL |
 
-**Frontend**
+---
 
-![React](https://img.shields.io/badge/React-475569?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-475569?style=flat-square&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-475569?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-475569?style=flat-square&logo=css&logoColor=white)
+## Ask this README
 
-**Backend & Data**
+These links open a pre-filled issue. Press "Create" and a GitHub Action answers it,
+replies on the issue, and posts the answer below. Nothing to install, no account setup.
 
-![FastAPI](https://img.shields.io/badge/FastAPI-475569?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-475569?style=flat-square&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-475569?style=flat-square&logo=mysql&logoColor=white)
+[What do you build?](https://github.com/tabarakmukhtar/tabarakmukhtar/issues/new?title=ask%7CWhat+do+you+build%3F&body=Just+press+%27Create%27.+Edit+the+title+if+you+want+to+ask+something+else.) &nbsp;·&nbsp; [What's your stack?](https://github.com/tabarakmukhtar/tabarakmukhtar/issues/new?title=ask%7CWhat+is+your+stack%3F&body=Just+press+%27Create%27.+Edit+the+title+if+you+want+to+ask+something+else.) &nbsp;·&nbsp; [Ask your own](https://github.com/tabarakmukhtar/tabarakmukhtar/issues/new?title=ask%7C&body=Just+press+%27Create%27.+Edit+the+title+if+you+want+to+ask+something+else.)
 
-**AI & Tooling**
-
-![Google Genkit](https://img.shields.io/badge/Genkit-475569?style=flat-square&logo=google&logoColor=white)
-![Git](https://img.shields.io/badge/Git-475569?style=flat-square&logo=git&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-475569?style=flat-square&logo=netlify&logoColor=white)
+<!-- ask:start -->
+<!-- ask:end -->
 
 ---
 
