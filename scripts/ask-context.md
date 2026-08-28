@@ -21,6 +21,9 @@ Public projects:
 - BizView: AI-powered business management dashboard with analytics. TypeScript, React.
 - LeadMasters Exam: full-stack online exam platform with auth, timed tests and a
   result pipeline. React, FastAPI, MySQL.
+- Smart AI Resume Analyzer: an ATS-style resume scoring and optimization tool that he
+  deployed and configured on Streamlit Cloud. The underlying application is Hunterdii's
+  open-source MIT project, not written by him. Python, Streamlit, Google Gemini.
 - Certificate Validation on Blockchain: his final-year project, verifying university
   certificates as tamper-proof on-chain records. JavaScript.
 

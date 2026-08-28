@@ -22,6 +22,7 @@ Most of my work sits at the seam between a real product surface and a model doin
 | **[Recipe Snap](https://github.com/tabarakmukhtar/Recipe-Snap)** | Turns a photo of your ingredients into a cookable recipe using AI vision. [Live demo](https://recipe-snapp.netlify.app/) | Next.js · TypeScript · Genkit |
 | **[BizView](https://github.com/tabarakmukhtar/BizView)** | AI-powered business management dashboard with analytics and operational insight. [Live demo](https://bizview.netlify.app/login) | TypeScript · React |
 | **[LeadMasters Exam](https://github.com/tabarakmukhtar/leadmasters-exam)** | Full-stack online examination platform with auth, timed tests and a result pipeline | React · FastAPI · MySQL |
+| **[Smart AI Resume Analyzer](https://smart-ai-resume-analyzer.streamlit.app/)** | ATS-style resume scoring with AI-driven optimization. Deployed and configured from [Hunterdii's MIT project](https://github.com/Hunterdii/Smart-AI-Resume-Analyzer). [Live demo](https://smart-ai-resume-analyzer.streamlit.app/) | Python · Streamlit · Gemini |
 | **[Certificate Validation on Blockchain](https://github.com/tabarakmukhtar/certificatevalidationusingblockchainn)** | Verifies university certificates as tamper-proof on-chain records | JavaScript · Blockchain |
 
 ---
