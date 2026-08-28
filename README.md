@@ -1,6 +1,6 @@
 # Tabarak Mukhtar
 
-**Full-Stack & AI Engineer** &nbsp;·&nbsp; Bengaluru, India
+**Full-Stack & AI Engineer** &nbsp;·&nbsp; Bengaluru, India 🇮🇳
 
 I build AI-powered products — full-stack systems where the intelligence is the feature, not a demo.
 Most of my work sits at the seam between a real product surface and a model doing something useful behind it.
