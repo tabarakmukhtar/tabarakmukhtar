@@ -49,6 +49,8 @@ replies on the issue, and posts the answer below. Nothing to install, no account
 [What do you build?](https://github.com/tabarakmukhtar/tabarakmukhtar/issues/new?title=ask%7CWhat+do+you+build%3F&body=Just+press+%27Create%27.+Edit+the+title+if+you+want+to+ask+something+else.) &nbsp;·&nbsp; [What's your stack?](https://github.com/tabarakmukhtar/tabarakmukhtar/issues/new?title=ask%7CWhat+is+your+stack%3F&body=Just+press+%27Create%27.+Edit+the+title+if+you+want+to+ask+something+else.) &nbsp;·&nbsp; [Ask your own](https://github.com/tabarakmukhtar/tabarakmukhtar/issues/new?title=ask%7C&body=Just+press+%27Create%27.+Edit+the+title+if+you+want+to+ask+something+else.)
 
 <!-- ask:start -->
+> **What do you build?**
+> Tabarak builds full
 <!-- ask:end -->
 
 ---
