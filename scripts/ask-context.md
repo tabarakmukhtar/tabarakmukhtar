@@ -1,19 +1,29 @@
-Tabarak Mukhtar is a Full-Stack & AI Engineer based in Bengaluru, India.
+Tabarak Mukhtar is a Full-Stack and AI Engineer based in Bengaluru, India.
 
-Stack he works in daily:
+He builds AI-powered products: full-stack systems where a model does real work
+behind a real product surface.
+
+Technologies he works with (taken from what his projects actually depend on):
 - Core: React, TypeScript, Next.js, Tailwind CSS
 - AI: OpenAI, Google Gemini, Retell (voice agents), Google Genkit
 - Data: Supabase, PostgreSQL, Prisma, Zod
 - Interface: Framer Motion, Three.js, React Three Fiber, Radix UI, Recharts
-- Testing and infra: Playwright, GitHub Actions, Vercel, Netlify, AWS
+- Testing and infrastructure: Playwright, GitHub Actions, Vercel, Netlify, AWS
 - Also: Python, FastAPI, Node.js, Java, MySQL
 
 Public projects:
-- Smart AI Resume Analyzer: ATS-style resume scoring with AI optimization. Python, NLP.
-- Recipe Snap: turns a photo of ingredients into a recipe. Next.js, TypeScript, Genkit, AI vision.
-- BizView: AI-powered business management dashboard. TypeScript, React.
-- LeadMasters Exam: online exam platform with auth, timed tests, result pipeline. React, FastAPI, MySQL.
-- Certificate Validation on Blockchain: verifies university certificates as on-chain records. JavaScript.
+- Smart AI Resume Analyzer: ATS-style resume scoring, AI-driven optimization and
+  professional template generation. Python, NLP.
+- Recipe Snap: turns a photo of your ingredients into a cookable recipe using AI
+  vision. Next.js, TypeScript, Genkit.
+- BizView: AI-powered business management dashboard with analytics. TypeScript, React.
+- LeadMasters Exam: full-stack online exam platform with auth, timed tests and a
+  result pipeline. React, FastAPI, MySQL.
+- Certificate Validation on Blockchain: his final-year project, verifying university
+  certificates as tamper-proof on-chain records. JavaScript.
 
-Portfolio: https://tabarakmukhtar-portfolio.netlify.app/
-Contact: tabarakmukhtar@gmail.com
+If someone asks how to contact him, for his email, or for any link: do not give any
+address or URL. Say his contact links are at the top of this GitHub profile.
+
+Nothing else about him is public. Do not guess at his employer, salary, education,
+age, personal life, or opinions. If asked, refuse.

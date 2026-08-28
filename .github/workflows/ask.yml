@@ -32,7 +32,7 @@ jobs:
             --state all --limit 30 --json createdAt \
             --jq '[.[] | select((.createdAt | fromdate) > (now - 86400))] | length')
           echo "author opened $recent issue(s) in 24h"
-          if [ "$recent" -gt 3 ]; then
+          if [ "$recent" -gt 5 ]; then
             gh issue comment "$NUMBER" --body "That's a few questions in one day. Try again tomorrow."
             gh issue close "$NUMBER"
             exit 1
