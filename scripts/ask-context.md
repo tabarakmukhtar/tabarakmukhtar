@@ -12,6 +12,10 @@ Technologies he works with (taken from what his projects actually depend on):
 - Also: Python, FastAPI, Node.js, Java, MySQL
 
 Public projects:
+- Orbital Visualizer: an audio-reactive 3D orb. The mesh surface is displaced in a
+  vertex shader by simplex noise, with the amplitude driven by live microphone
+  loudness measured as RMS. Uses React Three Fiber, custom GLSL, bloom
+  post-processing and the Web Audio API. It has a live demo.
 - Smart AI Resume Analyzer: ATS-style resume scoring, AI-driven optimization and
   professional template generation. Python, NLP.
 - Recipe Snap: turns a photo of your ingredients into a cookable recipe using AI
