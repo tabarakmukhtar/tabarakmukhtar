@@ -50,6 +50,9 @@ replies on the issue, and posts the answer below. Nothing to install, no account
 [What do you build?](https://github.com/tabarakmukhtar/tabarakmukhtar/issues/new?title=ask%7CWhat+do+you+build%3F&body=Just+press+%27Create%27.+Edit+the+title+if+you+want+to+ask+something+else.) &nbsp;·&nbsp; [What's your stack?](https://github.com/tabarakmukhtar/tabarakmukhtar/issues/new?title=ask%7CWhat+is+your+stack%3F&body=Just+press+%27Create%27.+Edit+the+title+if+you+want+to+ask+something+else.) &nbsp;·&nbsp; [Ask your own](https://github.com/tabarakmukhtar/tabarakmukhtar/issues/new?title=ask%7C&body=Just+press+%27Create%27.+Edit+the+title+if+you+want+to+ask+something+else.)
 
 <!-- ask:start -->
+> **Do you do any 3D or shader work?**
+> Yes, he built Orbital Visualizer, an audio-reactive 3D orb using Three.js, React Three Fiber, and custom GLSL vertex shaders. The orb's mesh surface is displaced in a vertex shader using simplex noise driven by live audio loudness.
+
 > **What is your stack?**
 > Tabarak works daily with React, TypeScript, Next.js, Tailwind CSS, Python, FastAPI, and Node.js. His stack also includes AI tools like OpenAI and Gemini, along with Supabase, PostgreSQL, and Prisma.
 <!-- ask:end -->
